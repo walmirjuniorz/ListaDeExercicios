@@ -1,4 +1,6 @@
-﻿//Crie um programa para converter a temperatura da escala Celsius para a escala Fahrenheit
+﻿/*  Exercicio 03
+    Crie um programa para converter a temperatura da escala Celsius para a escala Fahrenheit
+*/
 
 Console.WriteLine("--------------------------------------------");
 Console.WriteLine("CONVERSOR DE TEMPERATURA");
