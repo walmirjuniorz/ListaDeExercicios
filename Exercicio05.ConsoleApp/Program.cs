@@ -1,4 +1,6 @@
-﻿// Crie um programa para calcular a média ponderada de duas provas realizadas por um aluno
+﻿/*  Exercicio 05
+    Crie um programa para calcular a média ponderada de duas provas realizadas por um aluno
+*/
 
 Console.Write("Informe a nota um: ");
 double notaUm = Convert.ToDouble(Console.ReadLine());
